@@ -1,5 +1,5 @@
 # dotfiles
-some useful for my local setup
+some useful commands for my local setup
 
 install virtual environment : 
 pip install virtualenv
